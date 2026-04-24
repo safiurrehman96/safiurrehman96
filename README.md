@@ -14,13 +14,6 @@
 
 <br>
 
-#### Github Stats ⚡️
-
-| <a href="https://github.com/safiurrehman96"><img align="center" src="https://github-readme-stats-nine-chi-32.vercel.app/api?username=safiurrehman96&theme=transparent&count_private=true&show_icons=true&hide_border=true&rank_icon=github&locale=en" alt="Anurag's github stats" /></a> | <a href="https://github.com/safiurrehman96"><img align="center" src="https://github-readme-stats-nine-chi-32.vercel.app/api/top-langs?username=safiurrehman96&theme=transparent&hide=css&hide_border=true&layout=compact&langs_count=5&border_radius=0&show_icons=true&locale=en" /></a> |
-| ------------- | ------------- |
-
-<br>
-
 <!-- | <a><img width="140" src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,mongodb,postgres,prisma" /><br><img width="180" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,redux,git,postman,figma" /></a> | <a> </a> |
 | ------- | ------- | -->
 
